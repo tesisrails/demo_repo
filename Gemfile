@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 #ruby-gemset=railstutorial_rails_4_0
 
+#POPIS 
+
 gem 'rails', '4.0.2'
 
 group :development do
